@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #083B59;
+  color: #083B59;
+}
+h1{
+  font-family: Tahoma;
+  position: absolute;
+  color: yellow;
+  top: 50px;
+  right: 25%;
+}
+iframe{
+  background: white;
+  border:1px solid lightgrey;
+  width: 45%;
+  height: 80vh;
+  position: relative;
+  bottom: 82vh;
+  left: 50%;
+  overflow: hidden;
+}
+button {
+  background-color: #5592e0;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+#wrapper {
+  align-content:center;
+  overflow:auto;
+	position: relative;
+	height: 80vh;
+	width: 30vw;
+}
+.locations{
+  user-select: none; 
+  color: #083B59;
+}
+.file{
+  background-color: #5592e0;
+  color: white;
+  outline: none;
+  border: 1px white;
+}
+textarea{
+  align-content:center;
+  overflow:auto;
+  border: 3px outset #000000;
+  background-color: #8a8888; 
+  color: #f0ecbd;
+  outline: none;
+  height: 80vh;
+  width: 30vw;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #527A8C;
+}
+
+.topnav a {
+  float: left;
+  color: #C9CEBD;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #81857a;
+  color: #C9CEBD;
+}

@@ -1,0 +1,53 @@
+/*from https://github.com/MatheusAvellar/textarea-line-numbers */
+.tln-active,
+.tln-wrapper {
+ height:100%;
+ word-break:break-all;
+ display:inline-block;
+}
+.tln-active,
+.tln-line {
+ line-height:1.5;
+ font-size:16px
+}
+.tln-active,
+.tln-line,
+.tln-wrapper {
+ margin:0;
+ border:0;
+ padding:0;
+ outline:0;
+ box-sizing:border-box;
+ vertical-align:middle;
+ list-style:none;
+}
+.tln-active {
+ padding:10px;
+ width:calc(100% - 48px);
+ border: 3px outset #000000;
+ background-color:#8a8888;
+ resize:none;
+ overflow-wrap:normal;
+ overflow-x:auto;
+ white-space:pre;
+}
+.tln-wrapper {
+ width:48px;
+ height: 80vh;
+ padding:11px 5px 35px;
+ overflow:hidden;
+ counter-reset:line;
+ background-color: #6e7575;
+}
+.tln-line {
+ width:100%;
+ display:block;
+ text-align:right;
+ color:#aeaeae;
+}
+.tln-line::before {
+ counter-increment:line;
+ content:counter(line);
+ font-size:16px;
+ user-select:none;
+}
