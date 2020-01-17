@@ -1,5 +1,8 @@
 # HTML5-Compiler
-An HTML5-Compiler written in PHP. This is made so you can run offline if you'd like to. It's still in development so please let me know if there are any issues in the program.
+An HTML5-Compiler written in PHP. This is made so you can run offline if you'd like to. It's still in development so please let me know if there are any issues in the program.  
+
+## Latest Release
+[Beta V.0.4.2](https://github.com/mamamia5x/HTML5-Compiler/releases/tag/V.0.4.2)  
 
 ## Installing
 1. In order to install the app, you'll need to download PHP Desktop Chrome.  
@@ -16,3 +19,6 @@ An HTML5-Compiler written in PHP. This is made so you can run offline if you'd l
 ![Delete](https://github.com/mamamia5x/HTML5-Compiler/blob/master/Images/tutorial3.png)
 6. After that, you can download these files and then extract them. Then you put those files into the www files, and you are all set. Run the index (if it asks you to select a program, choose PHP Desktop Chrome).  
 ![Done](https://github.com/mamamia5x/HTML5-Compiler/blob/master/Images/tutorial5.png)
+
+## Update History
+* Beta 0.4.2 - Release Version 
