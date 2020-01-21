@@ -33,6 +33,9 @@ button {
   margin: 4px 2px;
   cursor: pointer;
 }
+button:disabled{
+  background-color: red;
+}
 #wrapper {
   align-content:center;
   overflow:auto;
