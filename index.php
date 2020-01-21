@@ -22,7 +22,7 @@
 <!-- class is locations for following p text, keep disabled for debugging -->
 <!--button onclick="TogetherJS(this); return false;">Start TogetherJS</button-->
 <!-- click0 means that it's to show file.html-->
-<p style="color: #ffff66;" id="update">V.0.5.0</p>
+<p style="color: #ffff66;" id="update">V.0.5.1</p>
 <p style="color: #ffff66;" id="error">Couldn't check version, might be because of internet.</p>
 <form method="POST">
   <button onclick="sometin ()">Run in new Window</button>
