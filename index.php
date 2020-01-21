@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-<script src="leaveAloneCompiler/script.js"></script>
-<script src="leaveAloneCompiler/tln.min.js"></script>
+<script src="/leaveAloneCompiler/script.js"></script>
+<script src="/leaveAloneCompiler/tln.min.js"></script>
 <script src="https://updatechecker.mamamia5x.repl.co/script.js"></script>
 <link rel="stylesheet" type="text/css" href="/leaveAloneCompiler/style.css">
 <link rel="stylesheet" type="text/css" href="/leaveAloneCompiler/tln.min.css">
@@ -42,6 +42,6 @@ if(isset($_POST['code'])){
   echo("<meta http-equiv='refresh' content='0'>");
 }
 ?>
-<iframe id="iframe" src="file.html" sandbox></iframe>
+<iframe id="iframe" src="file.html"></iframe>
 </body>
 </html>
