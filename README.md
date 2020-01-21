@@ -21,4 +21,5 @@ An HTML5-Compiler written in PHP. This is made so you can run offline if you'd l
 ![Done](https://github.com/mamamia5x/HTML5-Compiler/blob/master/Images/tutorial5.png)
 
 ## Update History
+* Beta 0.5.0 - Now you can edit different files. Just enter the file name in the text box.
 * Beta 0.4.2 - Release Version 
