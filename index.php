@@ -2,7 +2,6 @@
 <html>
 <script src="leaveAloneCompiler/script.js"></script>
 <script src="leaveAloneCompiler/tln.min.js"></script>
-<script src="leaveAloneCompiler/onlinedit.js"></script>
 <script src="https://updatechecker.mamamia5x.repl.co/script.js"></script>
 <link rel="stylesheet" type="text/css" href="/leaveAloneCompiler/style.css">
 <link rel="stylesheet" type="text/css" href="/leaveAloneCompiler/tln.min.css">
