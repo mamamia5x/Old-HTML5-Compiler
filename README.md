@@ -2,7 +2,7 @@
 An HTML5-Compiler written in PHP. This is made so you can run offline if you'd like to. It's still in development so please let me know if there are any issues in the program.  
 
 ## Latest Release
-[Beta V.0.4.2](https://github.com/mamamia5x/HTML5-Compiler/releases/tag/V.0.4.2)  
+[Beta V.0.5.0](https://github.com/mamamia5x/HTML5-Compiler/releases/tag/V.0.5.0)  
 
 ## Installing
 1. In order to install the app, you'll need to download PHP Desktop Chrome.  
