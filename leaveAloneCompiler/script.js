@@ -4,7 +4,7 @@ function upload() {
 }
 function load(){
   var see = localStorage.getItem("Enters");
-  document.getElementById('iframe').src = "file.html";
+  document.getElementById('iframe').src = document.getElementById('iframe').src
   if (see == null){
     localStorage.setItem("Enters", 0);
     setTimeout(reload, 1000);
