@@ -24,4 +24,9 @@ An HTML5-Compiler written in PHP. This is made so you can run offline if you'd l
 * Beta 0.5.2 - Added automatic updater. 
 * Beta 0.5.1 - Small Bug Fix
 * Beta 0.5.0 - Now you can edit different files. Just enter the file name in the text box.
-* Beta 0.4.2 - Release Version 
+* Beta 0.4.2 - Release Version  
+  
+## Ideas
+These are some ideas I came up with, you can name some in the Issues page.
+* Make an installer. So you'd just install the installer, and then it'll install the current version. (Just like the update checker).
+* Show recent files at the top.
