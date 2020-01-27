@@ -1,9 +1,11 @@
 # HTML5-Editor
-An HTML5-Compiler written in PHP. This is made so you can run offline if you'd like to. It's still in development so please let me know if there are any issues in the program.  
+An HTML5-Editor written in PHP. This is made so you can run offline if you'd like to. It's still in development so please let me know if there are any issues in the program.  
 
 ## Latest Release
 [Beta V.0.5.2.1](https://github.com/mamamia5x/HTML5-Compiler/releases/tag/V.0.5.2.1)  
 
+## Issues
+* When updating, error screen will sometimes pop up in  the back. What I found to work is that updating it in the WWW folder works.
 ## Installing
 1. In order to install the app, you'll need to download PHP Desktop Chrome.  
    * [Windows](https://github.com/cztomczak/phpdesktop/releases/tag/chrome-v57.0-rc)
