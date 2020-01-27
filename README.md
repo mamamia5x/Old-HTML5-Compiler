@@ -6,6 +6,8 @@ An HTML5-Editor written in PHP. This is made so you can run offline if you'd lik
 
 ## Issues
 * When updating, error screen will sometimes pop up in  the back. What I found to work is that updating it in the WWW folder works.
+* When it says the file isn't found, this is because the file hasn't been created yet. The file will be made if you press save.
+* When saving, the output won't show. For some reason, the editor won't show the updated result. Just right click and press reload for the result to be updated.
 ## Installing
 1. In order to install the app, you'll need to download PHP Desktop Chrome.  
    * [Windows](https://github.com/cztomczak/phpdesktop/releases/tag/chrome-v57.0-rc)
