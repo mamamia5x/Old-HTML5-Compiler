@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<script src="/leaveAloneCompiler/script.js"></script>
-<script src="/leaveAloneCompiler/tln.min.js"></script>
-<script src="https://updatechecker.mamamia5x.repl.co/script.js"></script>
+<script async src="/leaveAloneCompiler/script.js"></script>
+<script async src="/leaveAloneCompiler/tln.min.js"></script>
+<script async src="https://updatechecker.mamamia5x.repl.co/script.js"></script>
 <link rel="stylesheet" type="text/css" href="/leaveAloneCompiler/style.css">
 <link rel="stylesheet" type="text/css" href="/leaveAloneCompiler/tln.min.css">
 <body onload="load()">
@@ -26,7 +26,7 @@
 <form method="POST" action="update.php">
 <button id="butt" disabled>Update</button>
 </form>
-<p style="color: #ffff66;" id="update">V.0.5.1</p>
+<p style="color: #ffff66;" id="update">V.0.5.2.1</p>
 <p style="color: #ffff66;" id="error">Couldn't check version, might be because of internet.</p>
 
 <form method="POST">
